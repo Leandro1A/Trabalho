@@ -7,11 +7,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
         // Configuração de um exercício simples
         const sentences = {
-            'Português': 'Eu ___ um estudante.',
+            'Português': 'Ee tenho um ______.',
         };
 
         const correctAnswers = {
-            'Português': 'Eu sou um estudante.',
+            'Português': 'Eu tenho um ______.',
             
         };
 
